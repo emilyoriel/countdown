@@ -7,7 +7,7 @@ font-weight: 100;
 h1{ 
 color: #ead27a; 
 font-weight: 70; 
-font-size: 7em; 
+font-size: 13vh; 
 margin: 1em 0; 
 } 
 #clockdiv{ 
@@ -16,7 +16,7 @@ margin: 1em 0;
   display: inline-block; 
   font-weight: 100; 
   text-align: center; 
-  font-size: 3em; 
+  font-size: 3vw; 
 } 
 #clockdiv > div{ 
   padding: 1em; 
@@ -25,12 +25,12 @@ margin: 1em 0;
   display: inline-block; 
 } 
 #clockdiv div > span{ 
-  padding: 1em; 
+  padding: 4vw; 
   border-radius: 20px; 
   background: #853e3e; 
   display: inline-block; 
 } 
 smalltext{ 
-  padding-top: .7em; 
-  font-size: .2em; 
+  padding-top: 10vh; 
+  font-size: 2vw; 
 }
